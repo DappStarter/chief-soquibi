@@ -1,0 +1,14 @@
+{
+    "name": "Reserve T1",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/collection/entity": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "folder",
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true
+    }
+}
